@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(73, 20, 20);
+}
+body {
+background-color: rgba(73, 20, 20, 0.5);
+}
+footer {
+    color: aliceblue;
+}
+main {
+    margin: auto;
+    width: 75%;
+    border: 3px solid white;
+    padding: 10px;
+    background-color:rgb(255, 255, 255);
+}
